@@ -4,3 +4,8 @@ body{
   margin:3% !important;
   justify-content: center;
 }
+
+div.resume {
+  margin: 3%;
+  padding-bottom: 3%;
+}
